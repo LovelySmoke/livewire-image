@@ -19,5 +19,5 @@
         @error('name') <span class="text-danger">{{ $message }}</span> @enderror
     </div>
   
-    <button type="submit" class="btn btn-success">Save</button>
+    <button type="submit" class="btn btn-primary">Save</button>
 </form>
